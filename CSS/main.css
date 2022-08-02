@@ -1,0 +1,13 @@
+body {
+	background-color: white;
+}
+
+.caja {
+	background-color: #fff;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 2px;
+	border-color: #ccc;
+	border-top: solid 0px;
+	
+}

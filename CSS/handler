@@ -1,0 +1,8 @@
+Selectores:
+			# (id)
+			. (class)
+
+Modelo de caja:
+			todo es una caja
+			margin : margenes izquierda, arriba, derecha, abajo (alinia al centro)
+			padding : se encuentra por dentro
