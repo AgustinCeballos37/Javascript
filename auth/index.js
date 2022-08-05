@@ -6,7 +6,7 @@ const { expressjwt: expressJwt } = require ('express-jwt')
 const User = require('./user')
 
 
-moongose.connect('mongodb+srv://root:my0wnT1M3@cluster0.tzytc1a.mongodb.net/auth?retryWrites=true&w=majority')
+moongose.connect('')
 
 console.log(process.env.SECRET)
 
