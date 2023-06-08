@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-mongoose.connect('mongodb+srv://root:my0wnT1M3@cluster0.tzytc1a.mongodb.net/miapp?retryWrites=true&w=majority')
+mongoose.connect('mongodb+srv://root:*******@cluster0.tzytc1a.mongodb.net/miapp?retryWrites=true&w=majority')
 
 const User = mongoose.model('User', {
     username: String,
